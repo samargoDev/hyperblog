@@ -23,3 +23,13 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#anita{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+#contenedor{
+    background-color: white;
+    color: black;
+}
